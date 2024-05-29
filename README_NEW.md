@@ -1,6 +1,6 @@
 # Welcome to Python Ideas!
 
-This is the home for people who want to contribute to Python. Would you like to change something in Python? Then this might be the category for you! Use this category to get feedback on an idea you'd like to help get added to a future version of Python.
+This is the home for people who want to contribute to Python. Would you like to change something in Python? Then this might be the category for you! Use this category to get feedback on an idea you want to help add to a future version of Python.
 
 Python has been around for a long time, and proposing changes to the language can be difficult and intimidating. This category is for **well-thought-out proposals and discussions**. If your idea is not yet fully fleshed out, you might want to start in #users to get some initial feedback.
 
