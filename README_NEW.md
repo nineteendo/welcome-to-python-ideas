@@ -28,6 +28,4 @@ Any serious proposal must address the following requirements and questions:
     - How burdensome will these jobs be for whoever is doing them?
     - How will you personally contribute to the realization of this idea?
 
-Please think about all these requirements and questions and address them in the topic you create for your new idea. This will save your time and the time of others who read this forum (including core devs who need to sponsor PEPs) to raise and address them. In addition, others on this forum will be more likely to respond to and engage with your ideas, increasing the likelihood that they'll be adopted.
-
-**For participants**: please don’t start discussing the content of an idea before these points have been addressed, this gives the false impression the proposal is well written.
+Please think about all these requirements and questions and address them in the topic you create for your new idea. This will save your time and the time of others who read this forum (including core devs who need to sponsor PEPs) to raise and address them. In addition, others on this forum will be more likely to respond to and engage with your ideas, increasing the likelihood that they'll be adopted. If you don't address these points in your topic, participants will ask you to do so before engaging in a serious discussion of the idea.
