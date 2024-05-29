@@ -1,6 +1,6 @@
-# Please read this message before posting an idea
+# Welcome to Python Ideas!
 
-Would *you* like to change something in Python? This *might* be the category for you. Use this category to get feedback on an idea you'd like to help get added to in a future version of Python.
+Would *you* like to change something in Python? This *might* be the category for you. Use this category to get feedback on an idea you'd like to help get added to a future version of Python.
 
 Understand that Python is a volunteer project. All ideas integrated into Python are developed, implemented and maintained by volunteers to improve Python for the benefit of the community. This typically happens via the procedure outlined in [PEP 1](https://peps.python.org/pep-0001). When you make a proposal, you volunteer to help make it happen. How you help depends on your skills and experience, but you should at least expect people to assume that you'll do research, lead the discussion and respond to comments and criticism. Don't expect others to do tasks that you don't want to do.
 
