@@ -12,7 +12,7 @@ The following articles provide general expectations about how Python is develope
 - [Status quo wins a stalemate](https://www.curiousefficiency.org/posts/2011/02/status-quo-wins-stalemate/)
 - [Design and History FAQ](https://docs.python.org/dev/faq/design.html)
 
-Any serious proposal must address the following requirements and questions:
+## How to make a great Python Ideas post
 
 1. First, consider Python's [Backwards Compatibility Policy](https://peps.python.org/pep-0387) and its implications for your idea.
 2. You should also investigate whether your idea, or a similar one, has been proposed before. If so, your new proposal should address the reasons why the old one didn't move forward. Why should the idea move forward now if it didn't in the past? To find old similar proposals, check at least the following:
