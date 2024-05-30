@@ -4,15 +4,7 @@ This is the home for people who want to contribute to Python. Would you like to 
 
 Python has been around for a long time, and proposing changes to the language can be difficult and intimidating. This category is for **well-thought-out proposals and discussions**. If your idea is not yet fully fleshed out, you might want to start in #users to get some initial feedback.
 
-Understand that Python is a volunteer project. All ideas integrated into Python are developed, implemented and maintained by volunteers to improve Python for the benefit of the community. This typically happens via the procedure outlined in [PEP 1](https://peps.python.org/pep-0001). When you make a proposal, you volunteer to help make it happen. How you help depends on your skills and experience, but you should at least expect people to assume that you'll do research, lead the discussion and respond to comments and criticism. Don't expect others to do tasks that you don't want to do.
-
-The following articles provide general expectations about how Python is developed and the spirit of the Python community:
-
-- [Python Software Foundation Code of Conduct](https://policies.python.org/python.org/code-of-conduct/#our-community)
-- [Setting expectations for open source participation](https://snarky.ca/setting-expectations-for-open-source-participation)
-- [Justifying Python language changes](https://www.curiousefficiency.org/posts/2011/02/justifying-python-language-changes/)
-- [Status quo wins a stalemate](https://www.curiousefficiency.org/posts/2011/02/status-quo-wins-stalemate/)
-- [Design and History FAQ](https://docs.python.org/dev/faq/design.html)
+Understand that Python is a volunteer project. All ideas integrated into Python are developed, implemented and maintained by volunteers to improve Python for the benefit of the community. This typically happens via the procedure outlined in [PEP 1](https://peps.python.org/pep-0001). When you make a proposal, you volunteer to help make it happen. How you help depends on your skills and experience, but you should at least expect people to assume that you'll do research, lead the discussion and respond to comments and criticism. Don't expect others to do tasks that you don't want to do. See the [Code of Conduct](https://policies.python.org/python.org/code-of-conduct/#our-community) for more information.
 
 ## How to make a great Python Ideas post
 
@@ -31,3 +23,10 @@ The following articles provide general expectations about how Python is develope
     - How will you personally contribute to the realization of this idea?
 
 Please think about these requirements and questions and address them in the topic you create for your new idea. This will save your time and the time of others who read this forum (including core devs who need to sponsor PEPs) to raise and address them. In addition, others on this forum will be more likely to respond to and engage with your ideas, increasing the likelihood that they'll be adopted.
+
+The following articles provide general expectations about how Python is developed:
+
+- [Setting expectations for open source participation](https://snarky.ca/setting-expectations-for-open-source-participation)
+- [Justifying Python language changes](https://www.curiousefficiency.org/posts/2011/02/justifying-python-language-changes/)
+- [Status quo wins a stalemate](https://www.curiousefficiency.org/posts/2011/02/status-quo-wins-stalemate/)
+- [Design and History FAQ](https://docs.python.org/dev/faq/design.html)
