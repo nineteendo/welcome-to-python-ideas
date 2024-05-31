@@ -1,10 +1,8 @@
 # Welcome to Python Ideas!
 
-This is the home for people who want to contribute to Python. Would you like to change something in Python? Then this might be the category for you! Use this category to get feedback on an idea you want to help add to a future version of Python.
+Would you like to change something in Python? Then this might be the category for you! Use it to get feedback on an idea you want to help add to a future version of Python. This category is for well-thought-out proposals and discussions. If your idea is not yet fully fleshed out, you might want to start in #users to get some initial feedback.
 
-This category is for well-thought-out proposals and discussions. If your idea is not yet fully fleshed out, you might want to start in #users to get some initial feedback.
-
-All ideas integrated into Python are developed, implemented and maintained by volunteers to improve Python for the benefit of the community. This typically happens via the procedure outlined in [PEP 1](https://peps.python.org/pep-0001). When you make a proposal, you volunteer to help make it happen. How you help depends on your skills and experience, but you should at least expect people to assume that you'll do research, lead the discussion and respond to comments and criticism. Don't expect others to do tasks that you don't want to do. See [Our Community](https://policies.python.org/python.org/code-of-conduct/#our-community) in the Code of Conduct for more information.
+All ideas integrated into Python are developed, implemented and maintained by volunteers. This typically happens via the procedure outlined in [PEP 1](https://peps.python.org/pep-0001). When you make a proposal, you volunteer to help make it happen. How you help depends on your skills and experience, but you should at least expect people to assume that you'll do research, lead the discussion and respond to comments and criticism. Don't expect others to do tasks that you don't want to do. See [Our Community](https://policies.python.org/python.org/code-of-conduct/#our-community) in the Code of Conduct for more information.
 
 ## How to make a good Python Ideas post
 
