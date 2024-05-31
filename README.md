@@ -30,16 +30,16 @@ The following articles provide general expectations about how Python is develope
 
 As the author of an idea topic:
 
-- Stick with one idea for a long time. Ideas can take years to formulate and implement. Propose one thing you care about and stick with it.
-- Proposing a ton of ideas simultaneously, or immediately proposing something else after a previous idea is rejected, quickly becomes disruptive.
-- Jumping around between completely different areas of focus makes it difficult to understand if you have a deep understanding in any one topic. Conversely, repeatedly making slightly different ideas about the same thing if previous ones are declined, makes it difficult to understand if you're actually receptive to feedback.
-- Don't take negative reactions to an idea personally. You care about your idea, but you need to be prepared for others to have different views. Continuously posting defenses of your idea, rather than responding to feedback and evolving (or dropping) the idea, quickly becomes uninteresting for others to participate.
-- Make sure you're actually getting positive reactions from the people who will actually implement/maintain what you're proposing.
-- You will be more successful if the community and maintainers are familiar with you. Participating constructively with the existing backlog of ideas and issues gains you experience and trust. Reducing the existing workload gives maintainers more time to actually engage with and consider new requests. This requires long term dedication, it is not something that happens in a month.
+1. Stick with one idea for a long time. Ideas can take years to formulate and implement. Propose one thing you care about and stick with it.
+2. Proposing a ton of ideas simultaneously, or immediately proposing something else after a previous idea is rejected, quickly becomes disruptive.
+3. Jumping around between completely different areas of focus makes it difficult to understand if you have a deep understanding in any one topic. Conversely, repeatedly making slightly different ideas about the same thing if previous ones are declined, makes it difficult to understand if you're actually receptive to feedback.
+4. Don't take negative reactions to an idea personally. You care about your idea, but you need to be prepared for others to have different views. Continuously posting defenses of your idea, rather than responding to feedback and evolving (or dropping) the idea, quickly becomes uninteresting for others to participate.
+5. Make sure you're actually getting positive reactions from the people who will actually implement/maintain what you're proposing.
+6. You will be more successful if the community and maintainers are familiar with you. Participating constructively with the existing backlog of ideas and issues gains you experience and trust. Reducing the existing workload gives maintainers more time to actually engage with and consider new requests. This requires long term dedication, it is not something that happens in a month.
 
 As a participant (including the author) in an idea topic:
 
-- Do not respond to every post as soon as you see it. Wait for others to participate, digest what they say, then post perhaps once or twice a day.
-- Do not respond to every post. Decide what avenues to focus on and what are distractions. Otherwise responses become huge essays without a clear thesis, difficult to follow, and difficult for others to digest and respond to themselves.
-- If you disagree with something, you do not have to post. You do not need to have the last word. Not responding, and letting a discussion naturally conclude, is often the better decision.
-- Step away if you find yourself arguing in any way. Flag posts for moderators to step in.
+1. Do not respond to every post as soon as you see it. Wait for others to participate, digest what they say, then post perhaps once or twice a day.
+2. Do not respond to every post. Decide what avenues to focus on and what are distractions. Otherwise responses become huge essays without a clear thesis, difficult to follow, and difficult for others to digest and respond to themselves.
+3. If you disagree with something, you do not have to post. You do not need to have the last word. Not responding, and letting a discussion naturally conclude, is often the better decision.
+4. Step away if you find yourself arguing in any way. Flag posts for moderators to step in.
