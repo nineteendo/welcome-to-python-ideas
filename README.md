@@ -12,7 +12,7 @@ All ideas integrated into Python are developed, implemented and maintained by vo
     - The #ideas and #users categories on this forum
     - The historical [python-ideas](https://mail.python.org/archives/list/python-ideas@python.org) mailing list
     - The [issue tracker](https://github.com/python/cpython/labels/type-feature)
-3. Address other ways to achieve the same goals as your idea. Why are they not sufficient so that you are asking for a change to Python? For example, why can't a [PyPI package](https://pypi.org), recipe in the documentation or utility function suffice to satisfy your idea? Explain why it is better that this be available in a few years when the version of Python with the feature is available than what can be offered now.
+3. Address other ways to achieve the same goals as your idea. For example, why can't a [PyPI package](https://pypi.org), recipe in the documentation or utility function suffice to satisfy your idea? Explain why it is better that this be available in a few years when the version of Python with the feature is available than what can be offered now.
 4. Give clear examples of how your idea would be used and what problems it would solve. Provide an in-depth overview of code bases where a real benefit can be shown.
 5. Answer the following questions:
     - Who will develop and who will *maintain* the code and documentation for this idea?
