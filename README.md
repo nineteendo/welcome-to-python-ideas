@@ -15,8 +15,7 @@ All ideas integrated into Python are developed, implemented and maintained by vo
 3. Address other ways to achieve the same goals as your idea. Why are they not sufficient so that you are asking for a change to Python? For example, why can't a [PyPI package](https://pypi.org), recipe in the documentation or utility function suffice to satisfy your idea? You should also explain why it is better for this to be available in a few years, when the version of Python it is being added to is available, rather than right now, which is what a recipe or PyPI library offers.
 4. Give clear examples of how your idea would be used and what problems it would solve. A simple GitHub search isn't good enough, you need to provide an in-depth review of codebases where a real benefit can be demonstrated.
 5. Answer the following questions:
-    - Who will develop the source code and documentation for this idea?
-    - Who will *maintain* the source code and documentation for this idea?
+    - Who will develop and who will *maintain* the source code and documentation for this idea?
     - How burdensome will these jobs be for whoever is doing them?
     - How will you personally contribute to the realization of this idea?
 
