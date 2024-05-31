@@ -7,12 +7,12 @@ All ideas integrated into Python are developed, implemented and maintained by vo
 ## How to make a good Python Ideas post
 
 1. First, consider Python's [Backwards Compatibility Policy](https://peps.python.org/pep-0387) and its implications for your idea.
-2. Investigate also whether your idea, or a similar one, has been proposed before. If so, your new proposal should address the reasons why the old one didn't move forward. Why should the idea move forward now if it didn't in the past? To find old similar proposals, check at least the following:
+2. Investigate also whether your idea, or a similar one, has been proposed before. If so, explain why it should move forward now if it didn't in the past. To find previous proposals, check at least the following:
     - The [PEP Index](https://peps.python.org/pep-0000)
     - The #ideas and #users categories on this forum
     - The historical [python-ideas](https://mail.python.org/archives/list/python-ideas@python.org) mailing list
     - The [issue tracker](https://github.com/python/cpython/labels/type-feature)
-3. Address other ways to achieve the same goals as your idea. Why are they not sufficient so that you are asking for a change to Python? For example, why can't a [PyPI package](https://pypi.org), recipe in the documentation or utility function suffice to satisfy your idea? You should also explain why it is better for this to be available in a few years, when the version of Python it is being added to is available, rather than right now, which is what a recipe or PyPI package offers.
+3. Address other ways to achieve the same goals as your idea. Why are they not sufficient so that you are asking for a change to Python? For example, why can't a [PyPI package](https://pypi.org), recipe in the documentation or utility function suffice to satisfy your idea? Explain why it is better for this to be available in a few years, when the version of Python with the feature is available, than now, which these offer.
 4. Give clear examples of how your idea would be used and what problems it would solve. A simple GitHub search isn't good enough, you need to provide an in-depth review of codebases where a real benefit can be demonstrated.
 5. Answer the following questions:
     - Who will develop and who will *maintain* the source code and documentation for this idea?
